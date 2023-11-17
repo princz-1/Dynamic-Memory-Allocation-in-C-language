@@ -1,7 +1,7 @@
 // Write a program to allocate memory of size n, where n is entered by the user.
  
   #include <stdio.h>
-
+#include<stdlib.h>
 int main(void) {
 int*ptr;
   int n;
